@@ -1,5 +1,5 @@
 === Payment Forms for SiliconPay ===
-Contributors: siliconpay, @PRO PATS
+Contributors: siliconpay,   SILICON SAVANNAH LTD
 Donate link: https://silicon-pay.com/payModal/S61b7b057235009.457828241639428183
 Tags: siliconpay, payments, uganda, mastercard, visa, target, UGX, subscription, verve, donation, church, NGO, form, contact form 7, form
 Requires at least: 3.1
