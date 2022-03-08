@@ -42,12 +42,6 @@ To create a form to allow your users buy or pay for value in quantity.
 * Confirm that your server can conclude a TLSv1.2 connection to SiliconPay's servers.
 * A SiliconPay account
  
-= Automatic installation =
- 
-Automatic installation is the easiest option as WordPress handles the file transfers itself and you don’t need to leave your web browser. To do an automatic install of Payment Forms of SiliconPay, log in to your WordPress dashboard, navigate to the Plugins menu and click Add New.
- 
-In the search field type “Payment Forms for SiliconPay” and click Search Plugins. Once you’ve found our payment plugin you can view details about it such as the point release, rating and description. Most importantly of course, you can install it by simply clicking “Install Now”.
- 
 = Manual installation =
  
 The manual installation method involves downloading our payment plugin and uploading it to your webserver via your favourite FTP application. The WordPress codex contains [instructions on how to do this here](https://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation).
